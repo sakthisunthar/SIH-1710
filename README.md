@@ -122,60 +122,8 @@ The proposed architecture consists of the following major components:
 | API Integration Layer | Connects the system with existing railway services        |
 
 ## Use Cases
+<img width="2752" height="1536" alt="Gemini_Generated_Image_tic7ajtic7ajtic7" src="https://github.com/user-attachments/assets/c50695bf-add0-4a55-80de-a2edd5e68962" />
 
-### 1. Passenger Navigation
-
-A passenger searches for a destination such as Platform 4, and the application provides the shortest available route.
-
-### 2. Accessibility Navigation
-
-A passenger using a wheelchair can select accessibility mode. The system avoids stairs and provides a route using ramps and lifts.
-
-### 3. Voice Navigation
-
-Visually impaired passengers can receive voice-based navigation instructions.
-
-### 4. Facility Search
-
-Passengers can search for nearby facilities such as:
-
-* Restrooms
-* Food courts
-* ATMs
-* Waiting rooms
-* Ticket counters
-* Medical facilities
-
-### 5. Platform Navigation
-
-Passengers can enter their platform number and receive directions from their current location.
-
-### 6. Digital Kiosk Navigation
-
-Passengers without smartphones can use touchscreen kiosks placed throughout the station.
-
-### 7. Emergency Navigation
-
-The system can guide passengers toward emergency exits, medical centres, security offices, and other emergency facilities.
-
-### 8. Real-Time Route Updates
-
-If a pathway or platform is temporarily closed, the navigation engine can calculate an alternative route.
-
-### 9. Railway Administrator
-
-Railway authorities can update:
-
-* Station maps
-* Facility locations
-* Platform information
-* Temporary closures
-* Construction areas
-* Accessibility information
-
-### 10. Multilingual Navigation
-
-Passengers can select their preferred language for navigation instructions.
 
 ## Technology Stack
 
